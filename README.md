@@ -9,7 +9,7 @@ As a senior student at Yildiz Technical University, studying in the Computer Edu
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-ogun-karaoglu.vercel.app)
 * ✉️  You can contact me at [ogunkaraoglu62@gmail.com](mailto:ogunkaraoglu62@gmail.com)
-* 🚀  I'm currently working on [GPT-3-OpenAI-website](http://github.com/ThatDay1/GPT-3-OpenAI-website)
+* 🚀  I'm currently working on [VidTube-YoutubeCloneWebsite](https://vidtube-pink.vercel.app)
 * 🧠  I'm learning advenced React, AngulerJS and Tailwind CSS
 
 ### Skills
