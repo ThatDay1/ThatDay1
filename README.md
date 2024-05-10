@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ogün Karaoğlu
 =====================================================================================================================================
 
-Front-End Developer
+Web App Developer
 -------------------
 
 As a senior student at Yildiz Technical University, studying in the Computer Education and Instructional Technology Department, my educational journey has equipped me with a rich tapestry of experiences, fueling my passion for technology. Eage to transition into the professional realm as a front-end developer, i am excited about the prospect of contributing my skills and enthusiasm to your esteemed company.
